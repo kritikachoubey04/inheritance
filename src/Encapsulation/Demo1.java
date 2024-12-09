@@ -29,7 +29,7 @@ class Human {
 
             Human obj = new Human();
             obj.setAge(21);
-            obj.setName("Kritika");
+            obj.setName("vivek");
 
             System.out.println(obj.getAge() + " : " + obj.getName());
         }
